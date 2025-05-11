@@ -24,8 +24,8 @@ Tkinter
 Regular Expressions
 
 📁 Dataset
-The model is trained using the SMS Spam Collection Dataset from the UCI Machine Learning Repository:
-https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
+The model is trained using the SMS Spam Collection Dataset from kaggle.
+(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download)
 
 🚀 How It Works
 Load and preprocess SMS spam data
